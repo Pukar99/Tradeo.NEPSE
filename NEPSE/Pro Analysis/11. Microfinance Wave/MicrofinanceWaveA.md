@@ -1,94 +1,99 @@
-# **Hydropower Wave A - In-depth Analysis**  
+# **Microfinance Wave A - In-depth Analysis**  
 
-![Hydropower Wave A](images/HydropowerWaveA.png)
+![Microfinance Wave A](images/MicrofinanceWaveA.png)
 
 **Started Date:** Thu Aug 19, 2021 (Bhadra 3)  
 **Ended Date:** Tue Oct 19, 2021 (Kartik 2)  
 
 **Rally Type:** Drop  
 
-- **Total Points Dropped:** -1229  
-- **Percentage Drop:** 32.76%  
+- **Total Points Dropped:** -992.13  
+- **Percentage Drop:** 16.59%  
 - **Number of Bars:** 35  
 - **Total Days:** 61  
-- **Total Volume:** 83.7 B  
+- **Total Volume:** 26.80 B  
 
 ---
 
-## Simple Statistics - Hydropower  
+## Simple Statistics - Microfinance  
 
 - **Average Volume per Bar:**  
-    = 0.96  B  
+    = 0.77  B  
 
 - **Average Drop per Bar:**  
-  = 29.57  points  
+  = 28.35  points  
 
 - **Recovery Rate After Drawdown:**  
-  If the sector drops by 33.14%, the required percentage increase from the bottom to recover fully is:  
-
-  **≈ 49.52%**  
+  A 19.89% recovery is needed to fully rebound from a 16.59% drawdown.
 
 ---
 
-## **Hydropower Wave A - Stock Performance**  
+## **Microfinance Wave A - Stock Performance**  
 
-# Hydropower
+# Microfinance
 
-| S.N | Symbol | Close | Prev Close | % Change | Point Change |
-|----|--------|--------|------------|-----------|--------------|
-| 1  | NGPL   | 546.16 | 1093.08    | -50.03%   | -546.92      |
-| 2  | NHDL   | 362.62 | 710.28     | -48.95%   | -347.66      |
-| 3  | UPCL   | 274.53 | 529.71     | -48.17%   | -255.18      |
-| 4  | MHNL   | 330    | 629        | -47.54%   | -299         |
-| 5  | RURU   | 881.82 | 1648.18    | -46.50%   | -766.36      |
-| 6  | UNHPL  | 289    | 527        | -45.16%   | -238         |
-| 7  | SPDL   | 275.33 | 498        | -44.71%   | -222.67      |
-| 8  | HPPL   | 380    | 681        | -44.20%   | -301         |
-| 9  | SHPC   | 323.64 | 570        | -43.22%   | -246.36      |
-| 10 | RHPC   | 589    | 1037       | -43.20%   | -448         |
-| 11 | AHPC   | 227.05 | 398.5      | -43.02%   | -171.45      |
-| 12 | RADHI  | 490.69 | 853.46     | -42.51%   | -362.77      |
-| 13 | AKPL   | 270    | 465.25     | -41.97%   | -195.25      |
-| 14 | BARUN  | 232    | 398        | -41.71%   | -166         |
-| 15 | UMRH   | 419.62 | 691.94     | -39.36%   | -272.32      |
-| 16 | PPCL   | 357.7  | 578        | -38.11%   | -220.3       |
-| 17 | LEC    | 297    | 479        | -38.00%   | -182         |
-| 18 | SSHL   | 295    | 474        | -37.76%   | -179         |
-| 19 | KPCL   | 452.73 | 722.73     | -37.36%   | -270         |
-| 20 | GLH    | 379    | 598.1      | -36.63%   | -219.1       |
-| 21 | CHL    | 407    | 640        | -36.41%   | -233         |
-| 22 | JOSHI  | 286    | 448        | -36.16%   | -162         |
-| 23 | PMHPL  | 269    | 418.5      | -35.72%   | -149.5       |
-| 24 | UMHL   | 340.19 | 525.23     | -35.23%   | -185.04      |
-| 25 | KKHC   | 288    | 441        | -34.69%   | -153         |
-| 26 | API    | 309.29 | 467.07     | -33.78%   | -157.78      |
-| 27 | RHPL   | 328.5  | 490.5      | -33.03%   | -162         |
-| 28 | DHPL   | 275    | 409        | -32.76%   | -134         |
-| 29 | SHEL   | 241    | 356        | -32.30%   | -115         |
-| 30 | SJCL   | 330    | 482        | -31.54%   | -152         |
-| 31 | AKJCL  | 168.8  | 242        | -30.25%   | -73.2        |
-| 32 | HURJA  | 241.5  | 343.95     | -29.79%   | -102.45      |
-| 33 | RRHP   | 459    | 645        | -28.84%   | -186         |
-| 34 | HDHPC  | 198.86 | 277.03     | -28.22%   | -78.17       |
-| 35 | NHPC   | 256    | 354        | -27.68%   | -98          |
-| 36 | GHL    | 164.67 | 225        | -26.81%   | -60.33       |
-| 37 | UPPER  | 329    | 444        | -25.90%   | -115         |
-| 38 | BPCL   | 440.95 | 588.57     | -25.08%   | -147.62      |
-| 39 | MEN    | 946.35 | 1235.65    | -23.41%   | -289.3       |
-| 40 | CHCL   | 501.82 | 636.64     | -21.18%   | -134.82      |
+| SN  | Symbol   | Close    | Prev Close | % Change | Point Change |
+|-----|----------|----------|------------|----------|--------------|
+| 1   | FMDBL    | 794.42   | 1200       | -33.80%  | -405.58      |
+| 2   | DDBL     | 1101.91  | 1640.91    | -32.85%  | -539         |
+| 3   | NICLBSL  | 1097     | 1567       | -29.99%  | -470         |
+| 4   | GBLBS    | 938.9    | 1321       | -28.93%  | -382.1       |
+| 5   | RSDC     | 742.17   | 1025.69    | -27.64%  | -283.52      |
+| 6   | LLBS     | 1513.04  | 2052.17    | -26.27%  | -539.13      |
+| 7   | NSLB     | 1142.86  | 1546.22    | -26.09%  | -403.36      |
+| 8   | MMFDB    | 1178.05  | 1542.28    | -23.62%  | -364.23      |
+| 9   | SMFDB    | 1135.94  | 1474.96    | -22.99%  | -339.02      |
+| 10  | SKBBL    | 1461.71  | 1858.21    | -21.34%  | -396.5       |
+| 11  | GILB     | 1857.14  | 2357.14    | -21.21%  | -500         |
+| 12  | KLBSL    | 1233.64  | 1557.94    | -20.82%  | -324.3       |
+| 13  | NMFBS    | 2558.14  | 3214.05    | -20.41%  | -655.91      |
+| 14  | GLBSL    | 1440.38  | 1809.62    | -20.40%  | -369.24      |
+| 15  | GMFBS    | 1186.64  | 1487.39    | -20.22%  | -300.75      |
+| 16  | SWBBL    | 1370.6   | 1717.69    | -20.21%  | -347.09      |
+| 17  | SLBSL    | 1131.82  | 1400       | -19.16%  | -268.18      |
+| 18  | RMDC     | 1104.76  | 1364.29    | -19.02%  | -259.53      |
+| 19  | HLBSL    | 1166.67  | 1435.14    | -18.71%  | -268.47      |
+| 20  | NLBBL    | 1086.89  | 1335.25    | -18.60%  | -248.36      |
+| 21  | ALBSL    | 1422.05  | 1741.25    | -18.33%  | -319.2       |
+| 22  | VLBS     | 1267.5   | 1550       | -18.23%  | -282.5       |
+| 23  | NUBL     | 1176.47  | 1436.97    | -18.13%  | -260.5       |
+| 24  | ACLBSL   | 1136.36  | 1382.07    | -17.78%  | -245.71      |
+| 25  | SMATA    | 1304.28  | 1573.68    | -17.12%  | -269.4       |
+| 26  | NMBMF    | 1151.82  | 1389.09    | -17.08%  | -237.27      |
+| 27  | KMCDB    | 1024.37  | 1215.97    | -15.76%  | -191.6       |
+| 28  | ILBS     | 1348.42  | 1587.5     | -15.06%  | -239.08      |
+| 29  | MERO     | 1279.64  | 1492.73    | -14.28%  | -213.09      |
+| 30  | USLB     | 1484.62  | 1730       | -14.18%  | -245.38      |
+| 31  | FOWAD    | 2120     | 2462.4     | -13.91%  | -342.4       |
+| 32  | MSLB     | 1680.53  | 1934.35    | -13.12%  | -253.82      |
+| 33  | CBBL     | 1565.71  | 1801.9     | -13.11%  | -236.19      |
+| 34  | JSLBB    | 2753.91  | 3117.39    | -11.66%  | -363.48      |
+| 35  | MLBBL    | 1693.91  | 1913.91    | -11.49%  | -220         |
+| 36  | SLBS     | 1427.5   | 1538.5     | -7.21%   | -111         |
+| 37  | SABSL    | 1633.05  | 1758.47    | -7.13%   | -125.42      |
+| 38  | SMB      | 2246.02  | 2388.5     | -5.97%   | -142.48      |
+| 39  | SLBBL    | 1391.59  | 1435.51    | -3.06%   | -43.92       |
+| 40  | MLBSL    | 3274.71  | 3366.1     | -2.72%   | -91.39       |
+| 41  | SDLBSL   | 1486.55  | 1524.37    | -2.48%   | -37.82       |
+| 42  | SMFBS    | 2173.33  | 2195.83    | -1.02%   | -22.5        |
+| 43  | JBLB     | 3710.53  | 3426.4     | 8.29%    | 284.13       |
+| 44  | MKLB     | 1599.52  | 351.6      | 354.93%  | 1247.92      |
 
 
 ---
 
-### **Key Takeaways from Hydropower Sector Decline**  
+### **Key Takeaways from Microfinance Sector Decline**  
 
-1. **NGPL, NHDL, and UPCL Suffered the Biggest Losses**  
-   - *NGPL* dropped **-50.03%**, leading the sector's decline.  
+1. **FMDBL, DDBL, and NICLBSL Suffered the Biggest Losses**  
+   - *FMDBL* dropped **-33.80%**, leading the sector's decline with the largest point change of **-405.58**.  
+   - *DDBL* and *NICLBSL* followed with significant declines of **-32.85%** and **-29.99%**, respectively.  
 
 2. **Sector-Wide Weakness**  
-   - Every stock fell, indicating broader market or policy-driven pressures rather than company-specific issues.  
+   - Nearly all stocks in the Microfinance sector fell, with only *JBLB* and *MKLB* showing gains. This indicates broader market or policy-driven pressures rather than company-specific issues.  
 
 3. **Steep Recovery Needed**  
-   - With many stocks down over **30-50%**, a full rebound will require substantial investor confidence and time.
+   - With many stocks down over **20-30%**, a full rebound will require substantial investor confidence and time. Stocks like *FMDBL* and *DDBL* will need significant recoveries to return to their previous levels.  
 
+4. **Bright Spots in the Sector**  
+   - *MKLB* surged by **354.93%**, and *JBLB* gained **8.29%**, showing resilience amidst the overall decline. These outliers suggest potential opportunities for investors in specific stocks.
 ---
